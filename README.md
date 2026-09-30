@@ -2,6 +2,12 @@
 
 > A responsive, full-featured web application for exploring, registering, and managing college club events and student attendees. Built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-6366f1?style=for-the-badge&logo=vercel)](https://mdsahilcseabes.github.io/college-club-events/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MdSahilCseABES/college-club-events)
+
+- 🌐 **Live Website URL**: [https://mdsahilcseabes.github.io/college-club-events/](https://mdsahilcseabes.github.io/college-club-events/)
+- 🐙 **GitHub Repository**: [https://github.com/MdSahilCseABES/college-club-events](https://github.com/MdSahilCseABES/college-club-events)
+
 ---
 
 ## 🌟 Highlights & Features
